@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,Web Development
 - 🌱 I’m currently learning studying B.E
 - 📫 How to reach me ...
-
+![](https://komarev.com/ghpvc/?username=PrajwalMDeshanur)
 
 <!---
 PrajwalMDeshanur/PrajwalMDeshanur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
