@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PrajwalMDeshanur
+- 👋 Hi, I’m Prajwal M Deshanur
 - 👀 I’m interested in Coding,Web Development
-- 🌱 I’m currently learning studying B.E
+- 🌱 I’m currently learning studying Bachelor of Engineering in KLE Technological University,Hubballi.
 - 📫 How to reach me ...
   
 ![](https://komarev.com/ghpvc/?username=PrajwalMDeshanure&color=green)
