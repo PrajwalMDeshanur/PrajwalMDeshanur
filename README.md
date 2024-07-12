@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 - 👋 Hi, I’m Prajwal M Deshanur
 - 👀 I’m interested in Coding,Web Development
-- 🌱 I’m currently learning studying Bachelor of Engineering in KLE Technological University,Hubballi.
+- 🌱 I’m currently studying Bachelor of Engineering in KLE Technological University,Hubballi.
 - 📫 How to reach me ...
   
 <!---
